@@ -1,0 +1,570 @@
+Trial 1/30
+  Reg Param 0
+    Avg Train Before: 0.290021, Avg Train After: 0.289545, Test Before: 0.315135, Test After: 0.314376, Transfer Coeff Before: 0.920307, Transfer Coeff After: 0.921017
+  Reg Param 1
+    Avg Train Before: 0.258076, Avg Train After: 0.255434, Test Before: 0.287581, Test After: 0.285342, Transfer Coeff Before: 0.897404, Transfer Coeff After: 0.895185
+  Reg Param 2
+    Avg Train Before: 0.304733, Avg Train After: 0.304085, Test Before: 0.329640, Test After: 0.329157, Transfer Coeff Before: 0.924441, Transfer Coeff After: 0.923830
+  Reg Param 4
+    Avg Train Before: 0.299219, Avg Train After: 0.298837, Test Before: 0.326168, Test After: 0.325534, Transfer Coeff Before: 0.917376, Transfer Coeff After: 0.917990
+  Reg Param 6
+    Avg Train Before: 0.329389, Avg Train After: 0.329068, Test Before: 0.368875, Test After: 0.367807, Transfer Coeff Before: 0.892956, Transfer Coeff After: 0.894676
+  Reg Param 8
+    Avg Train Before: 0.141443, Avg Train After: 0.135252, Test Before: 0.161570, Test After: 0.154207, Transfer Coeff Before: 0.875429, Transfer Coeff After: 0.877083
+  Reg Param 10
+    Avg Train Before: 0.238656, Avg Train After: 0.198709, Test Before: 0.303770, Test After: 0.249204, Transfer Coeff Before: 0.785647, Transfer Coeff After: 0.797374
+  Reg Param 100
+    Avg Train Before: 0.290081, Avg Train After: 0.288209, Test Before: 0.306637, Test After: 0.305886, Transfer Coeff Before: 0.946007, Transfer Coeff After: 0.942210
+  Reg Param 1000
+    Avg Train Before: 0.895988, Avg Train After: 0.769883, Test Before: 1.178948, Test After: 1.003527, Transfer Coeff Before: 0.759989, Transfer Coeff After: 0.767177
+Trial 2/30
+  Reg Param 0
+    Avg Train Before: 0.393894, Avg Train After: 0.317793, Test Before: 0.500209, Test After: 0.396862, Transfer Coeff Before: 0.787459, Transfer Coeff After: 0.800765
+  Reg Param 1
+    Avg Train Before: 0.385002, Avg Train After: 0.384057, Test Before: 0.490170, Test After: 0.489254, Transfer Coeff Before: 0.785446, Transfer Coeff After: 0.784986
+  Reg Param 2
+    Avg Train Before: 0.150545, Avg Train After: 0.139307, Test Before: 0.208964, Test After: 0.194653, Transfer Coeff Before: 0.720432, Transfer Coeff After: 0.715667
+  Reg Param 4
+    Avg Train Before: 0.154515, Avg Train After: 0.141173, Test Before: 0.190886, Test After: 0.172547, Transfer Coeff Before: 0.809460, Transfer Coeff After: 0.818169
+  Reg Param 6
+    Avg Train Before: 0.424293, Avg Train After: 0.423894, Test Before: 0.534126, Test After: 0.533839, Transfer Coeff Before: 0.794369, Transfer Coeff After: 0.794048
+  Reg Param 8
+    Avg Train Before: 0.403854, Avg Train After: 0.403478, Test Before: 0.538877, Test After: 0.537943, Transfer Coeff Before: 0.749437, Transfer Coeff After: 0.750039
+  Reg Param 10
+    Avg Train Before: 0.195122, Avg Train After: 0.176504, Test Before: 0.244965, Test After: 0.218672, Transfer Coeff Before: 0.796529, Transfer Coeff After: 0.807163
+  Reg Param 100
+    Avg Train Before: 0.206077, Avg Train After: 0.179635, Test Before: 0.233377, Test After: 0.205119, Transfer Coeff Before: 0.883020, Transfer Coeff After: 0.875764
+  Reg Param 1000
+    Avg Train Before: 0.143412, Avg Train After: 0.137638, Test Before: 0.164708, Test After: 0.157126, Transfer Coeff Before: 0.870700, Transfer Coeff After: 0.875973
+Trial 3/30
+  Reg Param 0
+    Avg Train Before: 0.327770, Avg Train After: 0.327398, Test Before: 0.371393, Test After: 0.370641, Transfer Coeff Before: 0.882543, Transfer Coeff After: 0.883329
+  Reg Param 1
+    Avg Train Before: 0.348172, Avg Train After: 0.347117, Test Before: 0.399579, Test After: 0.398636, Transfer Coeff Before: 0.871348, Transfer Coeff After: 0.870760
+  Reg Param 2
+    Avg Train Before: 0.325414, Avg Train After: 0.324623, Test Before: 0.374898, Test After: 0.373718, Transfer Coeff Before: 0.868008, Transfer Coeff After: 0.868630
+  Reg Param 4
+    Avg Train Before: 0.280234, Avg Train After: 0.275180, Test Before: 0.352192, Test After: 0.346318, Transfer Coeff Before: 0.795686, Transfer Coeff After: 0.794588
+  Reg Param 6
+    Avg Train Before: 0.331140, Avg Train After: 0.330775, Test Before: 0.382013, Test After: 0.380617, Transfer Coeff Before: 0.866830, Transfer Coeff After: 0.869049
+  Reg Param 8
+    Avg Train Before: 0.177018, Avg Train After: 0.166311, Test Before: 0.223002, Test After: 0.215197, Transfer Coeff Before: 0.793794, Transfer Coeff After: 0.772835
+  Reg Param 10
+    Avg Train Before: 0.339016, Avg Train After: 0.338179, Test Before: 0.383990, Test After: 0.383210, Transfer Coeff Before: 0.882878, Transfer Coeff After: 0.882491
+  Reg Param 100
+    Avg Train Before: 0.340308, Avg Train After: 0.339680, Test Before: 0.363463, Test After: 0.362797, Transfer Coeff Before: 0.936291, Transfer Coeff After: 0.936279
+  Reg Param 1000
+    Avg Train Before: 0.334166, Avg Train After: 0.333916, Test Before: 0.373437, Test After: 0.372593, Transfer Coeff Before: 0.894839, Transfer Coeff After: 0.896193
+Trial 4/30
+  Reg Param 0
+    Avg Train Before: 0.413085, Avg Train After: 0.411974, Test Before: 0.482454, Test After: 0.481466, Transfer Coeff Before: 0.856216, Transfer Coeff After: 0.855666
+  Reg Param 1
+    Avg Train Before: 0.423345, Avg Train After: 0.423012, Test Before: 0.518673, Test After: 0.518092, Transfer Coeff Before: 0.816208, Transfer Coeff After: 0.816480
+  Reg Param 2
+    Avg Train Before: 0.293969, Avg Train After: 0.257542, Test Before: 0.341763, Test After: 0.301549, Transfer Coeff Before: 0.860154, Transfer Coeff After: 0.854061
+  Reg Param 4
+    Avg Train Before: 0.426012, Avg Train After: 0.425609, Test Before: 0.507459, Test After: 0.507541, Transfer Coeff Before: 0.839500, Transfer Coeff After: 0.838571
+  Reg Param 6
+    Avg Train Before: 0.175020, Avg Train After: 0.157122, Test Before: 0.230454, Test After: 0.208276, Transfer Coeff Before: 0.759457, Transfer Coeff After: 0.754393
+  Reg Param 8
+    Avg Train Before: 0.364809, Avg Train After: 0.320357, Test Before: 0.432215, Test After: 0.380406, Transfer Coeff Before: 0.844044, Transfer Coeff After: 0.842144
+  Reg Param 10
+    Avg Train Before: 0.299072, Avg Train After: 0.255548, Test Before: 0.402003, Test After: 0.331896, Transfer Coeff Before: 0.743955, Transfer Coeff After: 0.769963
+  Reg Param 100
+    Avg Train Before: 0.347292, Avg Train After: 0.342114, Test Before: 0.395001, Test After: 0.389071, Transfer Coeff Before: 0.879220, Transfer Coeff After: 0.879309
+  Reg Param 1000
+    Avg Train Before: 0.432451, Avg Train After: 0.431742, Test Before: 0.507388, Test After: 0.507129, Transfer Coeff Before: 0.852308, Transfer Coeff After: 0.851345
+Trial 5/30
+  Reg Param 0
+    Avg Train Before: 0.404967, Avg Train After: 0.404022, Test Before: 0.470010, Test After: 0.469567, Transfer Coeff Before: 0.861612, Transfer Coeff After: 0.860413
+  Reg Param 1
+    Avg Train Before: 0.175186, Avg Train After: 0.155984, Test Before: 0.218720, Test After: 0.197046, Transfer Coeff Before: 0.800961, Transfer Coeff After: 0.791611
+  Reg Param 2
+    Avg Train Before: 0.182653, Avg Train After: 0.165417, Test Before: 0.220598, Test After: 0.200699, Transfer Coeff Before: 0.827987, Transfer Coeff After: 0.824206
+  Reg Param 4
+    Avg Train Before: 0.384796, Avg Train After: 0.383906, Test Before: 0.474126, Test After: 0.472528, Transfer Coeff Before: 0.811590, Transfer Coeff After: 0.812451
+  Reg Param 6
+    Avg Train Before: 0.244312, Avg Train After: 0.223517, Test Before: 0.298061, Test After: 0.271116, Transfer Coeff Before: 0.819669, Transfer Coeff After: 0.824432
+  Reg Param 8
+    Avg Train Before: 0.238128, Avg Train After: 0.212047, Test Before: 0.278255, Test After: 0.244904, Transfer Coeff Before: 0.855791, Transfer Coeff After: 0.865837
+  Reg Param 10
+    Avg Train Before: 0.142996, Avg Train After: 0.138768, Test Before: 0.166657, Test After: 0.162633, Transfer Coeff Before: 0.858029, Transfer Coeff After: 0.853256
+  Reg Param 100
+    Avg Train Before: 0.403750, Avg Train After: 0.403444, Test Before: 0.495234, Test After: 0.494801, Transfer Coeff Before: 0.815270, Transfer Coeff After: 0.815366
+  Reg Param 1000
+    Avg Train Before: 0.145011, Avg Train After: 0.138845, Test Before: 0.171567, Test After: 0.164160, Transfer Coeff Before: 0.845215, Transfer Coeff After: 0.845790
+Trial 6/30
+  Reg Param 0
+    Avg Train Before: 0.684431, Avg Train After: 0.569646, Test Before: 0.874082, Test After: 0.723814, Transfer Coeff Before: 0.783028, Transfer Coeff After: 0.787006
+  Reg Param 1
+    Avg Train Before: 0.278353, Avg Train After: 0.220372, Test Before: 0.299882, Test After: 0.247338, Transfer Coeff Before: 0.928207, Transfer Coeff After: 0.890976
+  Reg Param 2
+    Avg Train Before: 0.166020, Avg Train After: 0.149086, Test Before: 0.179905, Test After: 0.162279, Transfer Coeff Before: 0.922822, Transfer Coeff After: 0.918705
+  Reg Param 4
+    Avg Train Before: 0.300693, Avg Train After: 0.299750, Test Before: 0.358538, Test After: 0.357887, Transfer Coeff Before: 0.838664, Transfer Coeff After: 0.837555
+  Reg Param 6
+    Avg Train Before: 0.137463, Avg Train After: 0.132370, Test Before: 0.173510, Test After: 0.167165, Transfer Coeff Before: 0.792250, Transfer Coeff After: 0.791853
+  Reg Param 8
+    Avg Train Before: 0.220209, Avg Train After: 0.192948, Test Before: 0.260476, Test After: 0.225754, Transfer Coeff Before: 0.845409, Transfer Coeff After: 0.854683
+  Reg Param 10
+    Avg Train Before: 0.601260, Avg Train After: 0.474340, Test Before: 0.737373, Test After: 0.575080, Transfer Coeff Before: 0.815409, Transfer Coeff After: 0.824824
+  Reg Param 100
+    Avg Train Before: 0.259428, Avg Train After: 0.253173, Test Before: 0.298268, Test After: 0.290187, Transfer Coeff Before: 0.869782, Transfer Coeff After: 0.872448
+  Reg Param 1000
+    Avg Train Before: 0.149646, Avg Train After: 0.138766, Test Before: 0.176916, Test After: 0.166191, Transfer Coeff Before: 0.845860, Transfer Coeff After: 0.834977
+Trial 7/30
+  Reg Param 0
+    Avg Train Before: 0.294718, Avg Train After: 0.254346, Test Before: 0.375183, Test After: 0.323299, Transfer Coeff Before: 0.785533, Transfer Coeff After: 0.786720
+  Reg Param 1
+    Avg Train Before: 0.169491, Avg Train After: 0.154403, Test Before: 0.193355, Test After: 0.176085, Transfer Coeff Before: 0.876578, Transfer Coeff After: 0.876866
+  Reg Param 2
+    Avg Train Before: 0.503790, Avg Train After: 0.456402, Test Before: 0.564243, Test After: 0.508931, Transfer Coeff Before: 0.892860, Transfer Coeff After: 0.896786
+  Reg Param 4
+    Avg Train Before: 0.263057, Avg Train After: 0.228472, Test Before: 0.319390, Test After: 0.276077, Transfer Coeff Before: 0.823621, Transfer Coeff After: 0.827567
+  Reg Param 6
+    Avg Train Before: 0.163839, Avg Train After: 0.151824, Test Before: 0.210940, Test After: 0.196463, Transfer Coeff Before: 0.776710, Transfer Coeff After: 0.772788
+  Reg Param 8
+    Avg Train Before: 0.433069, Avg Train After: 0.349247, Test Before: 0.534153, Test After: 0.429121, Transfer Coeff Before: 0.810757, Transfer Coeff After: 0.813865
+  Reg Param 10
+    Avg Train Before: 0.603299, Avg Train After: 0.515681, Test Before: 0.738961, Test After: 0.633765, Transfer Coeff Before: 0.816415, Transfer Coeff After: 0.813679
+  Reg Param 100
+    Avg Train Before: 0.965580, Avg Train After: 0.843193, Test Before: 1.203332, Test After: 1.022372, Transfer Coeff Before: 0.802422, Transfer Coeff After: 0.824741
+  Reg Param 1000
+    Avg Train Before: 0.580285, Avg Train After: 0.556167, Test Before: 0.680125, Test After: 0.651665, Transfer Coeff Before: 0.853204, Transfer Coeff After: 0.853455
+Trial 8/30
+  Reg Param 0
+    Avg Train Before: 0.254222, Avg Train After: 0.253834, Test Before: 0.316267, Test After: 0.315306, Transfer Coeff Before: 0.803820, Transfer Coeff After: 0.805040
+  Reg Param 1
+    Avg Train Before: 0.245149, Avg Train After: 0.244652, Test Before: 0.317378, Test After: 0.316613, Transfer Coeff Before: 0.772419, Transfer Coeff After: 0.772717
+  Reg Param 2
+    Avg Train Before: 0.252273, Avg Train After: 0.251934, Test Before: 0.319532, Test After: 0.319507, Transfer Coeff Before: 0.789509, Transfer Coeff After: 0.788508
+  Reg Param 4
+    Avg Train Before: 0.253013, Avg Train After: 0.252374, Test Before: 0.308962, Test After: 0.308866, Transfer Coeff Before: 0.818914, Transfer Coeff After: 0.817099
+  Reg Param 6
+    Avg Train Before: 0.180529, Avg Train After: 0.163304, Test Before: 0.241699, Test After: 0.215059, Transfer Coeff Before: 0.746916, Transfer Coeff After: 0.759346
+  Reg Param 8
+    Avg Train Before: 0.253427, Avg Train After: 0.253131, Test Before: 0.305026, Test After: 0.304708, Transfer Coeff Before: 0.830837, Transfer Coeff After: 0.830733
+  Reg Param 10
+    Avg Train Before: 0.248083, Avg Train After: 0.247903, Test Before: 0.307901, Test After: 0.307275, Transfer Coeff Before: 0.805722, Transfer Coeff After: 0.806780
+  Reg Param 100
+    Avg Train Before: 0.250351, Avg Train After: 0.249948, Test Before: 0.297461, Test After: 0.297248, Transfer Coeff Before: 0.841628, Transfer Coeff After: 0.840871
+  Reg Param 1000
+    Avg Train Before: 0.263135, Avg Train After: 0.262886, Test Before: 0.339410, Test After: 0.338892, Transfer Coeff Before: 0.775271, Transfer Coeff After: 0.775721
+Trial 9/30
+  Reg Param 0
+    Avg Train Before: 0.194814, Avg Train After: 0.178839, Test Before: 0.234039, Test After: 0.214370, Transfer Coeff Before: 0.832397, Transfer Coeff After: 0.834253
+  Reg Param 1
+    Avg Train Before: 0.230277, Avg Train After: 0.204307, Test Before: 0.314595, Test After: 0.282496, Transfer Coeff Before: 0.731978, Transfer Coeff After: 0.723221
+  Reg Param 2
+    Avg Train Before: 0.122196, Avg Train After: 0.120783, Test Before: 0.168734, Test After: 0.166603, Transfer Coeff Before: 0.724191, Transfer Coeff After: 0.724975
+  Reg Param 4
+    Avg Train Before: 0.403038, Avg Train After: 0.395391, Test Before: 0.609440, Test After: 0.599133, Transfer Coeff Before: 0.661324, Transfer Coeff After: 0.659939
+  Reg Param 6
+    Avg Train Before: 0.451807, Avg Train After: 0.451724, Test Before: 0.623917, Test After: 0.623366, Transfer Coeff Before: 0.724147, Transfer Coeff After: 0.724653
+  Reg Param 8
+    Avg Train Before: 0.437980, Avg Train After: 0.426193, Test Before: 0.596767, Test After: 0.583622, Transfer Coeff Before: 0.733922, Transfer Coeff After: 0.730255
+  Reg Param 10
+    Avg Train Before: 0.148281, Avg Train After: 0.142130, Test Before: 0.220361, Test After: 0.209506, Transfer Coeff Before: 0.672899, Transfer Coeff After: 0.678409
+  Reg Param 100
+    Avg Train Before: 0.167600, Avg Train After: 0.155468, Test Before: 0.219776, Test After: 0.203532, Transfer Coeff Before: 0.762594, Transfer Coeff After: 0.763850
+  Reg Param 1000
+    Avg Train Before: 0.142203, Avg Train After: 0.139595, Test Before: 0.171534, Test After: 0.169563, Transfer Coeff Before: 0.829009, Transfer Coeff After: 0.823263
+Trial 10/30
+  Reg Param 0
+    Avg Train Before: 0.264741, Avg Train After: 0.229912, Test Before: 0.336212, Test After: 0.289212, Transfer Coeff Before: 0.787425, Transfer Coeff After: 0.794960
+  Reg Param 1
+    Avg Train Before: 0.316291, Avg Train After: 0.316064, Test Before: 0.440316, Test After: 0.439958, Transfer Coeff Before: 0.718328, Transfer Coeff After: 0.718397
+  Reg Param 2
+    Avg Train Before: 0.333517, Avg Train After: 0.333203, Test Before: 0.431342, Test After: 0.431030, Transfer Coeff Before: 0.773209, Transfer Coeff After: 0.773039
+  Reg Param 4
+    Avg Train Before: 0.157913, Avg Train After: 0.148795, Test Before: 0.198299, Test After: 0.185802, Transfer Coeff Before: 0.796338, Transfer Coeff After: 0.800825
+  Reg Param 6
+    Avg Train Before: 0.203468, Avg Train After: 0.189803, Test Before: 0.262262, Test After: 0.241974, Transfer Coeff Before: 0.775821, Transfer Coeff After: 0.784393
+  Reg Param 8
+    Avg Train Before: 0.323755, Avg Train After: 0.323403, Test Before: 0.438158, Test After: 0.437629, Transfer Coeff Before: 0.738900, Transfer Coeff After: 0.738988
+  Reg Param 10
+    Avg Train Before: 0.322587, Avg Train After: 0.322096, Test Before: 0.448303, Test After: 0.447281, Transfer Coeff Before: 0.719574, Transfer Coeff After: 0.720118
+  Reg Param 100
+    Avg Train Before: 0.318875, Avg Train After: 0.318427, Test Before: 0.409312, Test After: 0.407520, Transfer Coeff Before: 0.779051, Transfer Coeff After: 0.781377
+  Reg Param 1000
+    Avg Train Before: 0.313267, Avg Train After: 0.312743, Test Before: 0.406349, Test After: 0.404452, Transfer Coeff Before: 0.770931, Transfer Coeff After: 0.773250
+Trial 11/30
+  Reg Param 0
+    Avg Train Before: 0.365684, Avg Train After: 0.361813, Test Before: 0.505031, Test After: 0.498097, Transfer Coeff Before: 0.724082, Transfer Coeff After: 0.726392
+  Reg Param 1
+    Avg Train Before: 0.425252, Avg Train After: 0.424247, Test Before: 0.571458, Test After: 0.569847, Transfer Coeff Before: 0.744153, Transfer Coeff After: 0.744492
+  Reg Param 2
+    Avg Train Before: 0.175890, Avg Train After: 0.159453, Test Before: 0.203413, Test After: 0.182392, Transfer Coeff Before: 0.864696, Transfer Coeff After: 0.874231
+  Reg Param 4
+    Avg Train Before: 0.488193, Avg Train After: 0.405200, Test Before: 0.611209, Test After: 0.520274, Transfer Coeff Before: 0.798733, Transfer Coeff After: 0.778819
+  Reg Param 6
+    Avg Train Before: 0.435653, Avg Train After: 0.435693, Test Before: 0.620593, Test After: 0.620025, Transfer Coeff Before: 0.701995, Transfer Coeff After: 0.702702
+  Reg Param 8
+    Avg Train Before: 0.146551, Avg Train After: 0.142120, Test Before: 0.167880, Test After: 0.162044, Transfer Coeff Before: 0.872951, Transfer Coeff After: 0.877044
+  Reg Param 10
+    Avg Train Before: 0.126214, Avg Train After: 0.121696, Test Before: 0.165155, Test After: 0.159674, Transfer Coeff Before: 0.764217, Transfer Coeff After: 0.762149
+  Reg Param 100
+    Avg Train Before: 0.152065, Avg Train After: 0.142831, Test Before: 0.193283, Test After: 0.180920, Transfer Coeff Before: 0.786751, Transfer Coeff After: 0.789471
+  Reg Param 1000
+    Avg Train Before: 0.358178, Avg Train After: 0.351970, Test Before: 0.492809, Test After: 0.484014, Transfer Coeff Before: 0.726809, Transfer Coeff After: 0.727190
+Trial 12/30
+  Reg Param 0
+    Avg Train Before: 0.332942, Avg Train After: 0.332673, Test Before: 0.451490, Test After: 0.451299, Transfer Coeff Before: 0.737429, Transfer Coeff After: 0.737145
+  Reg Param 1
+    Avg Train Before: 0.292726, Avg Train After: 0.240234, Test Before: 0.372152, Test After: 0.300792, Transfer Coeff Before: 0.786576, Transfer Coeff After: 0.798669
+  Reg Param 2
+    Avg Train Before: 0.328941, Avg Train After: 0.328350, Test Before: 0.448609, Test After: 0.447583, Transfer Coeff Before: 0.733247, Transfer Coeff After: 0.733608
+  Reg Param 4
+    Avg Train Before: 0.330935, Avg Train After: 0.330262, Test Before: 0.476733, Test After: 0.476308, Transfer Coeff Before: 0.694172, Transfer Coeff After: 0.693378
+  Reg Param 6
+    Avg Train Before: 0.320476, Avg Train After: 0.320434, Test Before: 0.491071, Test After: 0.490752, Transfer Coeff Before: 0.652606, Transfer Coeff After: 0.652944
+  Reg Param 8
+    Avg Train Before: 0.335322, Avg Train After: 0.334560, Test Before: 0.482910, Test After: 0.483030, Transfer Coeff Before: 0.694378, Transfer Coeff After: 0.692628
+  Reg Param 10
+    Avg Train Before: 0.299742, Avg Train After: 0.298430, Test Before: 0.390603, Test After: 0.388016, Transfer Coeff Before: 0.767383, Transfer Coeff After: 0.769119
+  Reg Param 100
+    Avg Train Before: 0.336704, Avg Train After: 0.336248, Test Before: 0.469981, Test After: 0.469419, Transfer Coeff Before: 0.716420, Transfer Coeff After: 0.716307
+  Reg Param 1000
+    Avg Train Before: 0.298827, Avg Train After: 0.295777, Test Before: 0.447101, Test After: 0.442862, Transfer Coeff Before: 0.668365, Transfer Coeff After: 0.667876
+Trial 13/30
+  Reg Param 0
+    Avg Train Before: 0.142115, Avg Train After: 0.138034, Test Before: 0.170953, Test After: 0.166710, Transfer Coeff Before: 0.831309, Transfer Coeff After: 0.827993
+  Reg Param 1
+    Avg Train Before: 0.145520, Avg Train After: 0.139043, Test Before: 0.200962, Test After: 0.189790, Transfer Coeff Before: 0.724120, Transfer Coeff After: 0.732616
+  Reg Param 2
+    Avg Train Before: 0.138113, Avg Train After: 0.132245, Test Before: 0.167425, Test After: 0.160108, Transfer Coeff Before: 0.824924, Transfer Coeff After: 0.825976
+  Reg Param 4
+    Avg Train Before: 0.273798, Avg Train After: 0.229268, Test Before: 0.402624, Test After: 0.334714, Transfer Coeff Before: 0.680035, Transfer Coeff After: 0.684966
+  Reg Param 6
+    Avg Train Before: 0.130510, Avg Train After: 0.127171, Test Before: 0.178750, Test After: 0.172972, Transfer Coeff Before: 0.730125, Transfer Coeff After: 0.735209
+  Reg Param 8
+    Avg Train Before: 0.130285, Avg Train After: 0.126760, Test Before: 0.182545, Test After: 0.175822, Transfer Coeff Before: 0.713714, Transfer Coeff After: 0.720954
+  Reg Param 10
+    Avg Train Before: 0.155112, Avg Train After: 0.148396, Test Before: 0.186446, Test After: 0.177135, Transfer Coeff Before: 0.831940, Transfer Coeff After: 0.837758
+  Reg Param 100
+    Avg Train Before: 0.323039, Avg Train After: 0.259459, Test Before: 0.447647, Test After: 0.369573, Transfer Coeff Before: 0.721637, Transfer Coeff After: 0.702051
+  Reg Param 1000
+    Avg Train Before: 0.127170, Avg Train After: 0.125693, Test Before: 0.168732, Test After: 0.167308, Transfer Coeff Before: 0.753685, Transfer Coeff After: 0.751266
+Trial 14/30
+  Reg Param 0
+    Avg Train Before: 0.160599, Avg Train After: 0.147217, Test Before: 0.206889, Test After: 0.190712, Transfer Coeff Before: 0.776256, Transfer Coeff After: 0.771937
+  Reg Param 1
+    Avg Train Before: 0.140746, Avg Train After: 0.135238, Test Before: 0.188444, Test After: 0.181859, Transfer Coeff Before: 0.746883, Transfer Coeff After: 0.743639
+  Reg Param 2
+    Avg Train Before: 0.147369, Avg Train After: 0.141305, Test Before: 0.177106, Test After: 0.170166, Transfer Coeff Before: 0.832098, Transfer Coeff After: 0.830398
+  Reg Param 4
+    Avg Train Before: 0.141523, Avg Train After: 0.137538, Test Before: 0.175723, Test After: 0.171340, Transfer Coeff Before: 0.805377, Transfer Coeff After: 0.802719
+  Reg Param 6
+    Avg Train Before: 0.152351, Avg Train After: 0.144179, Test Before: 0.204238, Test After: 0.194816, Transfer Coeff Before: 0.745948, Transfer Coeff After: 0.740080
+  Reg Param 8
+    Avg Train Before: 0.131665, Avg Train After: 0.127160, Test Before: 0.166947, Test After: 0.161132, Transfer Coeff Before: 0.788667, Transfer Coeff After: 0.789165
+  Reg Param 10
+    Avg Train Before: 0.253621, Avg Train After: 0.205586, Test Before: 0.301188, Test After: 0.247620, Transfer Coeff Before: 0.842068, Transfer Coeff After: 0.830245
+  Reg Param 100
+    Avg Train Before: 0.209496, Avg Train After: 0.183038, Test Before: 0.222008, Test After: 0.197916, Transfer Coeff Before: 0.943643, Transfer Coeff After: 0.924830
+  Reg Param 1000
+    Avg Train Before: 0.427014, Avg Train After: 0.426615, Test Before: 0.496143, Test After: 0.494929, Transfer Coeff Before: 0.860668, Transfer Coeff After: 0.861973
+Trial 15/30
+  Reg Param 0
+    Avg Train Before: 0.145048, Avg Train After: 0.142949, Test Before: 0.191134, Test After: 0.188524, Transfer Coeff Before: 0.758881, Transfer Coeff After: 0.758254
+  Reg Param 1
+    Avg Train Before: 0.278148, Avg Train After: 0.220709, Test Before: 0.381536, Test After: 0.311589, Transfer Coeff Before: 0.729023, Transfer Coeff After: 0.708334
+  Reg Param 2
+    Avg Train Before: 0.162925, Avg Train After: 0.153197, Test Before: 0.190263, Test After: 0.178159, Transfer Coeff Before: 0.856316, Transfer Coeff After: 0.859888
+  Reg Param 4
+    Avg Train Before: 0.421393, Avg Train After: 0.420833, Test Before: 0.737222, Test After: 0.737382, Transfer Coeff Before: 0.571596, Transfer Coeff After: 0.570713
+  Reg Param 6
+    Avg Train Before: 0.156781, Avg Train After: 0.152202, Test Before: 0.205074, Test After: 0.198317, Transfer Coeff Before: 0.764506, Transfer Coeff After: 0.767466
+  Reg Param 8
+    Avg Train Before: 0.154616, Avg Train After: 0.144246, Test Before: 0.196822, Test After: 0.183819, Transfer Coeff Before: 0.785561, Transfer Coeff After: 0.784718
+  Reg Param 10
+    Avg Train Before: 0.890829, Avg Train After: 0.682991, Test Before: 1.260379, Test After: 1.040257, Transfer Coeff Before: 0.706795, Transfer Coeff After: 0.656560
+  Reg Param 100
+    Avg Train Before: 0.204602, Avg Train After: 0.178844, Test Before: 0.283563, Test After: 0.251954, Transfer Coeff Before: 0.721540, Transfer Coeff After: 0.709829
+  Reg Param 1000
+    Avg Train Before: 0.129049, Avg Train After: 0.127498, Test Before: 0.154887, Test After: 0.152556, Transfer Coeff Before: 0.833183, Transfer Coeff After: 0.835744
+Trial 16/30
+  Reg Param 0
+    Avg Train Before: 0.248605, Avg Train After: 0.247857, Test Before: 0.311632, Test After: 0.311259, Transfer Coeff Before: 0.797752, Transfer Coeff After: 0.796306
+  Reg Param 1
+    Avg Train Before: 0.245491, Avg Train After: 0.245103, Test Before: 0.295165, Test After: 0.294607, Transfer Coeff Before: 0.831708, Transfer Coeff After: 0.831964
+  Reg Param 2
+    Avg Train Before: 0.252000, Avg Train After: 0.251509, Test Before: 0.297975, Test After: 0.297617, Transfer Coeff Before: 0.845710, Transfer Coeff After: 0.845078
+  Reg Param 4
+    Avg Train Before: 0.259468, Avg Train After: 0.258860, Test Before: 0.308863, Test After: 0.308592, Transfer Coeff Before: 0.840077, Transfer Coeff After: 0.838843
+  Reg Param 6
+    Avg Train Before: 0.245708, Avg Train After: 0.245383, Test Before: 0.277421, Test After: 0.277075, Transfer Coeff Before: 0.885686, Transfer Coeff After: 0.885617
+  Reg Param 8
+    Avg Train Before: 0.233816, Avg Train After: 0.233506, Test Before: 0.277904, Test After: 0.277564, Transfer Coeff Before: 0.841356, Transfer Coeff After: 0.841269
+  Reg Param 10
+    Avg Train Before: 0.242719, Avg Train After: 0.242091, Test Before: 0.291836, Test After: 0.291232, Transfer Coeff Before: 0.831698, Transfer Coeff After: 0.831266
+  Reg Param 100
+    Avg Train Before: 0.238307, Avg Train After: 0.237742, Test Before: 0.280579, Test After: 0.280144, Transfer Coeff Before: 0.849339, Transfer Coeff After: 0.848641
+  Reg Param 1000
+    Avg Train Before: 0.251603, Avg Train After: 0.250856, Test Before: 0.282981, Test After: 0.282287, Transfer Coeff Before: 0.889117, Transfer Coeff After: 0.888654
+Trial 17/30
+  Reg Param 0
+    Avg Train Before: 0.183288, Avg Train After: 0.167748, Test Before: 0.229397, Test After: 0.207124, Transfer Coeff Before: 0.799000, Transfer Coeff After: 0.809892
+  Reg Param 1
+    Avg Train Before: 0.180764, Avg Train After: 0.164559, Test Before: 0.234206, Test After: 0.213238, Transfer Coeff Before: 0.771817, Transfer Coeff After: 0.771716
+  Reg Param 2
+    Avg Train Before: 0.161326, Avg Train After: 0.153071, Test Before: 0.208113, Test After: 0.197633, Transfer Coeff Before: 0.775184, Transfer Coeff After: 0.774521
+  Reg Param 4
+    Avg Train Before: 0.142540, Avg Train After: 0.136975, Test Before: 0.181245, Test After: 0.172867, Transfer Coeff Before: 0.786451, Transfer Coeff After: 0.792369
+  Reg Param 6
+    Avg Train Before: 0.272655, Avg Train After: 0.237675, Test Before: 0.354841, Test After: 0.313544, Transfer Coeff Before: 0.768388, Transfer Coeff After: 0.758028
+  Reg Param 8
+    Avg Train Before: 0.154221, Avg Train After: 0.146858, Test Before: 0.200602, Test After: 0.190295, Transfer Coeff Before: 0.768793, Transfer Coeff After: 0.771740
+  Reg Param 10
+    Avg Train Before: 0.653953, Avg Train After: 0.551772, Test Before: 0.768237, Test After: 0.649849, Transfer Coeff Before: 0.851239, Transfer Coeff After: 0.849077
+  Reg Param 100
+    Avg Train Before: 0.151325, Avg Train After: 0.143574, Test Before: 0.199052, Test After: 0.190775, Transfer Coeff Before: 0.760232, Transfer Coeff After: 0.752581
+  Reg Param 1000
+    Avg Train Before: 0.454391, Avg Train After: 0.344124, Test Before: 0.536532, Test After: 0.399873, Transfer Coeff Before: 0.846904, Transfer Coeff After: 0.860584
+Trial 18/30
+  Reg Param 0
+    Avg Train Before: 0.305848, Avg Train After: 0.305231, Test Before: 0.417032, Test After: 0.416279, Transfer Coeff Before: 0.733393, Transfer Coeff After: 0.733237
+  Reg Param 1
+    Avg Train Before: 0.304610, Avg Train After: 0.303894, Test Before: 0.422854, Test After: 0.422009, Transfer Coeff Before: 0.720368, Transfer Coeff After: 0.720112
+  Reg Param 2
+    Avg Train Before: 0.748623, Avg Train After: 0.476541, Test Before: 1.013882, Test After: 0.647846, Transfer Coeff Before: 0.738373, Transfer Coeff After: 0.735577
+  Reg Param 4
+    Avg Train Before: 0.313969, Avg Train After: 0.313178, Test Before: 0.446785, Test After: 0.446038, Transfer Coeff Before: 0.702730, Transfer Coeff After: 0.702133
+  Reg Param 6
+    Avg Train Before: 0.292271, Avg Train After: 0.291369, Test Before: 0.430120, Test After: 0.429401, Transfer Coeff Before: 0.679511, Transfer Coeff After: 0.678548
+  Reg Param 8
+    Avg Train Before: 0.289976, Avg Train After: 0.289062, Test Before: 0.414385, Test After: 0.413572, Transfer Coeff Before: 0.699775, Transfer Coeff After: 0.698942
+  Reg Param 10
+    Avg Train Before: 0.322021, Avg Train After: 0.321373, Test Before: 0.425335, Test After: 0.424340, Transfer Coeff Before: 0.757100, Transfer Coeff After: 0.757348
+  Reg Param 100
+    Avg Train Before: 0.305334, Avg Train After: 0.304897, Test Before: 0.430637, Test After: 0.429271, Transfer Coeff Before: 0.709030, Transfer Coeff After: 0.710268
+  Reg Param 1000
+    Avg Train Before: 0.298539, Avg Train After: 0.297932, Test Before: 0.413292, Test After: 0.412827, Transfer Coeff Before: 0.722345, Transfer Coeff After: 0.721687
+Trial 19/30
+  Reg Param 0
+    Avg Train Before: 0.242305, Avg Train After: 0.241809, Test Before: 0.309905, Test After: 0.308663, Transfer Coeff Before: 0.781870, Transfer Coeff After: 0.783408
+  Reg Param 1
+    Avg Train Before: 0.249547, Avg Train After: 0.248960, Test Before: 0.301532, Test After: 0.301174, Transfer Coeff Before: 0.827599, Transfer Coeff After: 0.826631
+  Reg Param 2
+    Avg Train Before: 0.253480, Avg Train After: 0.252407, Test Before: 0.293964, Test After: 0.293263, Transfer Coeff Before: 0.862282, Transfer Coeff After: 0.860687
+  Reg Param 4
+    Avg Train Before: 0.244680, Avg Train After: 0.243800, Test Before: 0.294287, Test After: 0.293422, Transfer Coeff Before: 0.831434, Transfer Coeff After: 0.830886
+  Reg Param 6
+    Avg Train Before: 0.238327, Avg Train After: 0.232466, Test Before: 0.303787, Test After: 0.293307, Transfer Coeff Before: 0.784520, Transfer Coeff After: 0.792568
+  Reg Param 8
+    Avg Train Before: 0.249816, Avg Train After: 0.249202, Test Before: 0.301039, Test After: 0.300252, Transfer Coeff Before: 0.829848, Transfer Coeff After: 0.829977
+  Reg Param 10
+    Avg Train Before: 0.228807, Avg Train After: 0.227639, Test Before: 0.284618, Test After: 0.283791, Transfer Coeff Before: 0.803909, Transfer Coeff After: 0.802135
+  Reg Param 100
+    Avg Train Before: 0.254107, Avg Train After: 0.253368, Test Before: 0.301276, Test After: 0.300427, Transfer Coeff Before: 0.843434, Transfer Coeff After: 0.843360
+  Reg Param 1000
+    Avg Train Before: 0.241960, Avg Train After: 0.241054, Test Before: 0.300486, Test After: 0.299088, Transfer Coeff Before: 0.805229, Transfer Coeff After: 0.805962
+Trial 20/30
+  Reg Param 0
+    Avg Train Before: 0.383021, Avg Train After: 0.331804, Test Before: 0.478059, Test After: 0.423885, Transfer Coeff Before: 0.801200, Transfer Coeff After: 0.782770
+  Reg Param 1
+    Avg Train Before: 0.741211, Avg Train After: 0.588533, Test Before: 1.028304, Test After: 0.774707, Transfer Coeff Before: 0.720809, Transfer Coeff After: 0.759685
+  Reg Param 2
+    Avg Train Before: 0.309837, Avg Train After: 0.309298, Test Before: 0.417049, Test After: 0.416432, Transfer Coeff Before: 0.742927, Transfer Coeff After: 0.742734
+  Reg Param 4
+    Avg Train Before: 0.301355, Avg Train After: 0.300515, Test Before: 0.417780, Test After: 0.417559, Transfer Coeff Before: 0.721324, Transfer Coeff After: 0.719693
+  Reg Param 6
+    Avg Train Before: 0.283536, Avg Train After: 0.223872, Test Before: 0.393996, Test After: 0.308424, Transfer Coeff Before: 0.719642, Transfer Coeff After: 0.725857
+  Reg Param 8
+    Avg Train Before: 0.211459, Avg Train After: 0.190355, Test Before: 0.265851, Test After: 0.239599, Transfer Coeff Before: 0.795405, Transfer Coeff After: 0.794472
+  Reg Param 10
+    Avg Train Before: 0.280978, Avg Train After: 0.280643, Test Before: 0.416648, Test After: 0.415831, Transfer Coeff Before: 0.674378, Transfer Coeff After: 0.674897
+  Reg Param 100
+    Avg Train Before: 0.297547, Avg Train After: 0.297084, Test Before: 0.394947, Test After: 0.394281, Transfer Coeff Before: 0.753386, Transfer Coeff After: 0.753482
+  Reg Param 1000
+    Avg Train Before: 0.176362, Avg Train After: 0.162581, Test Before: 0.220522, Test After: 0.204530, Transfer Coeff Before: 0.799746, Transfer Coeff After: 0.794900
+Trial 21/30
+  Reg Param 0
+    Avg Train Before: 0.219475, Avg Train After: 0.218915, Test Before: 0.257528, Test After: 0.257199, Transfer Coeff Before: 0.852237, Transfer Coeff After: 0.851150
+  Reg Param 1
+    Avg Train Before: 0.236092, Avg Train After: 0.235543, Test Before: 0.251124, Test After: 0.250960, Transfer Coeff Before: 0.940143, Transfer Coeff After: 0.938569
+  Reg Param 2
+    Avg Train Before: 0.212120, Avg Train After: 0.211402, Test Before: 0.245829, Test After: 0.245139, Transfer Coeff Before: 0.862874, Transfer Coeff After: 0.862374
+  Reg Param 4
+    Avg Train Before: 0.225552, Avg Train After: 0.225103, Test Before: 0.275183, Test After: 0.274866, Transfer Coeff Before: 0.819644, Transfer Coeff After: 0.818955
+  Reg Param 6
+    Avg Train Before: 0.216486, Avg Train After: 0.215967, Test Before: 0.273833, Test After: 0.273711, Transfer Coeff Before: 0.790575, Transfer Coeff After: 0.789032
+  Reg Param 8
+    Avg Train Before: 0.217088, Avg Train After: 0.216643, Test Before: 0.250376, Test After: 0.249887, Transfer Coeff Before: 0.867049, Transfer Coeff After: 0.866963
+  Reg Param 10
+    Avg Train Before: 0.220384, Avg Train After: 0.219913, Test Before: 0.252568, Test After: 0.251982, Transfer Coeff Before: 0.872574, Transfer Coeff After: 0.872732
+  Reg Param 100
+    Avg Train Before: 0.687577, Avg Train After: 0.421285, Test Before: 0.847931, Test After: 0.510290, Transfer Coeff Before: 0.810888, Transfer Coeff After: 0.825580
+  Reg Param 1000
+    Avg Train Before: 0.235997, Avg Train After: 0.235328, Test Before: 0.249820, Test After: 0.249513, Transfer Coeff Before: 0.944668, Transfer Coeff After: 0.943150
+Trial 22/30
+  Reg Param 0
+    Avg Train Before: 0.184724, Avg Train After: 0.157356, Test Before: 0.257307, Test After: 0.216959, Transfer Coeff Before: 0.717913, Transfer Coeff After: 0.725278
+  Reg Param 1
+    Avg Train Before: 0.438629, Avg Train After: 0.392914, Test Before: 0.570744, Test After: 0.502664, Transfer Coeff Before: 0.768521, Transfer Coeff After: 0.781663
+  Reg Param 2
+    Avg Train Before: 0.314009, Avg Train After: 0.243009, Test Before: 0.403405, Test After: 0.316986, Transfer Coeff Before: 0.778396, Transfer Coeff After: 0.766624
+  Reg Param 4
+    Avg Train Before: 0.310901, Avg Train After: 0.263926, Test Before: 0.420771, Test After: 0.357758, Transfer Coeff Before: 0.738885, Transfer Coeff After: 0.737723
+  Reg Param 6
+    Avg Train Before: 0.302979, Avg Train After: 0.302503, Test Before: 0.416484, Test After: 0.416215, Transfer Coeff Before: 0.727469, Transfer Coeff After: 0.726794
+  Reg Param 8
+    Avg Train Before: 0.207614, Avg Train After: 0.183848, Test Before: 0.237360, Test After: 0.208823, Transfer Coeff Before: 0.874682, Transfer Coeff After: 0.880403
+  Reg Param 10
+    Avg Train Before: 0.276595, Avg Train After: 0.230965, Test Before: 0.360322, Test After: 0.299150, Transfer Coeff Before: 0.767634, Transfer Coeff After: 0.772073
+  Reg Param 100
+    Avg Train Before: 0.301784, Avg Train After: 0.301375, Test Before: 0.399801, Test After: 0.399103, Transfer Coeff Before: 0.754836, Transfer Coeff After: 0.755130
+  Reg Param 1000
+    Avg Train Before: 0.317813, Avg Train After: 0.235348, Test Before: 0.396439, Test After: 0.297953, Transfer Coeff Before: 0.801669, Transfer Coeff After: 0.789884
+Trial 23/30
+  Reg Param 0
+    Avg Train Before: 0.371946, Avg Train After: 0.370757, Test Before: 0.357913, Test After: 0.356780, Transfer Coeff Before: 1.039209, Transfer Coeff After: 1.039174
+  Reg Param 1
+    Avg Train Before: 0.944006, Avg Train After: 0.682848, Test Before: 0.818450, Test After: 0.611802, Transfer Coeff Before: 1.153407, Transfer Coeff After: 1.116126
+  Reg Param 2
+    Avg Train Before: 0.543884, Avg Train After: 0.420053, Test Before: 0.554483, Test After: 0.446545, Transfer Coeff Before: 0.980884, Transfer Coeff After: 0.940674
+  Reg Param 4
+    Avg Train Before: 0.186591, Avg Train After: 0.163524, Test Before: 0.257843, Test After: 0.226626, Transfer Coeff Before: 0.723662, Transfer Coeff After: 0.721560
+  Reg Param 6
+    Avg Train Before: 0.385062, Avg Train After: 0.384880, Test Before: 0.376857, Test After: 0.376398, Transfer Coeff Before: 1.021772, Transfer Coeff After: 1.022533
+  Reg Param 8
+    Avg Train Before: 0.121861, Avg Train After: 0.120863, Test Before: 0.164218, Test After: 0.162692, Transfer Coeff Before: 0.742066, Transfer Coeff After: 0.742894
+  Reg Param 10
+    Avg Train Before: 0.179259, Avg Train After: 0.174287, Test Before: 0.228772, Test After: 0.223256, Transfer Coeff Before: 0.783574, Transfer Coeff After: 0.780662
+  Reg Param 100
+    Avg Train Before: 0.147685, Avg Train After: 0.143630, Test Before: 0.177186, Test After: 0.173504, Transfer Coeff Before: 0.833502, Transfer Coeff After: 0.827817
+  Reg Param 1000
+    Avg Train Before: 0.319411, Avg Train After: 0.268992, Test Before: 0.352822, Test After: 0.304108, Transfer Coeff Before: 0.905304, Transfer Coeff After: 0.884526
+Trial 24/30
+  Reg Param 0
+    Avg Train Before: 0.348792, Avg Train After: 0.348335, Test Before: 0.419871, Test After: 0.419170, Transfer Coeff Before: 0.830713, Transfer Coeff After: 0.831011
+  Reg Param 1
+    Avg Train Before: 0.355757, Avg Train After: 0.355311, Test Before: 0.433730, Test After: 0.433316, Transfer Coeff Before: 0.820227, Transfer Coeff After: 0.819981
+  Reg Param 2
+    Avg Train Before: 0.385431, Avg Train After: 0.384699, Test Before: 0.444350, Test After: 0.443828, Transfer Coeff Before: 0.867403, Transfer Coeff After: 0.866773
+  Reg Param 4
+    Avg Train Before: 0.367150, Avg Train After: 0.366599, Test Before: 0.435364, Test After: 0.434518, Transfer Coeff Before: 0.843316, Transfer Coeff After: 0.843693
+  Reg Param 6
+    Avg Train Before: 0.375374, Avg Train After: 0.374626, Test Before: 0.438624, Test After: 0.437806, Transfer Coeff Before: 0.855800, Transfer Coeff After: 0.855690
+  Reg Param 8
+    Avg Train Before: 0.358616, Avg Train After: 0.358079, Test Before: 0.435592, Test After: 0.434853, Transfer Coeff Before: 0.823283, Transfer Coeff After: 0.823448
+  Reg Param 10
+    Avg Train Before: 0.161986, Avg Train After: 0.154952, Test Before: 0.213580, Test After: 0.203491, Transfer Coeff Before: 0.758435, Transfer Coeff After: 0.761468
+  Reg Param 100
+    Avg Train Before: 0.353555, Avg Train After: 0.352884, Test Before: 0.446820, Test After: 0.445863, Transfer Coeff Before: 0.791268, Transfer Coeff After: 0.791463
+  Reg Param 1000
+    Avg Train Before: 0.374186, Avg Train After: 0.373568, Test Before: 0.458154, Test After: 0.457438, Transfer Coeff Before: 0.816725, Transfer Coeff After: 0.816653
+Trial 25/30
+  Reg Param 0
+    Avg Train Before: 0.160183, Avg Train After: 0.147478, Test Before: 0.206627, Test After: 0.190813, Transfer Coeff Before: 0.775226, Transfer Coeff After: 0.772896
+  Reg Param 1
+    Avg Train Before: 0.144865, Avg Train After: 0.141862, Test Before: 0.177801, Test After: 0.175631, Transfer Coeff Before: 0.814757, Transfer Coeff After: 0.807725
+  Reg Param 2
+    Avg Train Before: 0.153688, Avg Train After: 0.144361, Test Before: 0.185044, Test After: 0.174236, Transfer Coeff Before: 0.830551, Transfer Coeff After: 0.828539
+  Reg Param 4
+    Avg Train Before: 0.346446, Avg Train After: 0.293591, Test Before: 0.367876, Test After: 0.304216, Transfer Coeff Before: 0.941747, Transfer Coeff After: 0.965074
+  Reg Param 6
+    Avg Train Before: 0.321344, Avg Train After: 0.259874, Test Before: 0.390492, Test After: 0.317943, Transfer Coeff Before: 0.822921, Transfer Coeff After: 0.817361
+  Reg Param 8
+    Avg Train Before: 0.335840, Avg Train After: 0.293779, Test Before: 0.372946, Test After: 0.324269, Transfer Coeff Before: 0.900505, Transfer Coeff After: 0.905973
+  Reg Param 10
+    Avg Train Before: 0.148653, Avg Train After: 0.147483, Test Before: 0.179955, Test After: 0.178402, Transfer Coeff Before: 0.826054, Transfer Coeff After: 0.826689
+  Reg Param 100
+    Avg Train Before: 0.250568, Avg Train After: 0.211350, Test Before: 0.306377, Test After: 0.255765, Transfer Coeff Before: 0.817841, Transfer Coeff After: 0.826342
+  Reg Param 1000
+    Avg Train Before: 0.133903, Avg Train After: 0.123652, Test Before: 0.180424, Test After: 0.167943, Transfer Coeff Before: 0.742157, Transfer Coeff After: 0.736273
+Trial 26/30
+  Reg Param 0
+    Avg Train Before: 0.256006, Avg Train After: 0.255657, Test Before: 0.348692, Test After: 0.348643, Transfer Coeff Before: 0.734188, Transfer Coeff After: 0.733292
+  Reg Param 1
+    Avg Train Before: 0.253298, Avg Train After: 0.251784, Test Before: 0.288276, Test After: 0.287723, Transfer Coeff Before: 0.878663, Transfer Coeff After: 0.875094
+  Reg Param 2
+    Avg Train Before: 0.249232, Avg Train After: 0.248938, Test Before: 0.309205, Test After: 0.308638, Transfer Coeff Before: 0.806041, Transfer Coeff After: 0.806569
+  Reg Param 4
+    Avg Train Before: 0.256386, Avg Train After: 0.255986, Test Before: 0.331345, Test After: 0.331081, Transfer Coeff Before: 0.773773, Transfer Coeff After: 0.773182
+  Reg Param 6
+    Avg Train Before: 0.253553, Avg Train After: 0.253369, Test Before: 0.310246, Test After: 0.309594, Transfer Coeff Before: 0.817265, Transfer Coeff After: 0.818392
+  Reg Param 8
+    Avg Train Before: 0.248638, Avg Train After: 0.247954, Test Before: 0.313734, Test After: 0.313234, Transfer Coeff Before: 0.792512, Transfer Coeff After: 0.791594
+  Reg Param 10
+    Avg Train Before: 0.252093, Avg Train After: 0.251729, Test Before: 0.315891, Test After: 0.315172, Transfer Coeff Before: 0.798035, Transfer Coeff After: 0.798704
+  Reg Param 100
+    Avg Train Before: 0.252647, Avg Train After: 0.252059, Test Before: 0.324609, Test After: 0.323936, Transfer Coeff Before: 0.778312, Transfer Coeff After: 0.778114
+  Reg Param 1000
+    Avg Train Before: 0.256279, Avg Train After: 0.255891, Test Before: 0.326182, Test After: 0.325461, Transfer Coeff Before: 0.785693, Transfer Coeff After: 0.786242
+Trial 27/30
+  Reg Param 0
+    Avg Train Before: 0.143545, Avg Train After: 0.137665, Test Before: 0.199198, Test After: 0.192972, Transfer Coeff Before: 0.720617, Transfer Coeff After: 0.713394
+  Reg Param 1
+    Avg Train Before: 0.157819, Avg Train After: 0.153976, Test Before: 0.193099, Test After: 0.188115, Transfer Coeff Before: 0.817296, Transfer Coeff After: 0.818521
+  Reg Param 2
+    Avg Train Before: 0.135565, Avg Train After: 0.134437, Test Before: 0.162290, Test After: 0.161622, Transfer Coeff Before: 0.835323, Transfer Coeff After: 0.831799
+  Reg Param 4
+    Avg Train Before: 0.136980, Avg Train After: 0.132918, Test Before: 0.180715, Test After: 0.175320, Transfer Coeff Before: 0.757992, Transfer Coeff After: 0.758150
+  Reg Param 6
+    Avg Train Before: 0.135570, Avg Train After: 0.134062, Test Before: 0.174384, Test After: 0.173223, Transfer Coeff Before: 0.777426, Transfer Coeff After: 0.773929
+  Reg Param 8
+    Avg Train Before: 0.137703, Avg Train After: 0.135543, Test Before: 0.193916, Test After: 0.188787, Transfer Coeff Before: 0.710117, Transfer Coeff After: 0.717967
+  Reg Param 10
+    Avg Train Before: 0.134714, Avg Train After: 0.131927, Test Before: 0.178524, Test After: 0.175395, Transfer Coeff Before: 0.754597, Transfer Coeff After: 0.752174
+  Reg Param 100
+    Avg Train Before: 0.149812, Avg Train After: 0.135984, Test Before: 0.207159, Test After: 0.190244, Transfer Coeff Before: 0.723174, Transfer Coeff After: 0.714788
+  Reg Param 1000
+    Avg Train Before: 0.178193, Avg Train After: 0.165581, Test Before: 0.234787, Test After: 0.215137, Transfer Coeff Before: 0.758957, Transfer Coeff After: 0.769652
+Trial 28/30
+  Reg Param 0
+    Avg Train Before: 0.419450, Avg Train After: 0.321350, Test Before: 0.451324, Test After: 0.349861, Transfer Coeff Before: 0.929375, Transfer Coeff After: 0.918506
+  Reg Param 1
+    Avg Train Before: 0.285546, Avg Train After: 0.285150, Test Before: 0.343902, Test After: 0.343071, Transfer Coeff Before: 0.830311, Transfer Coeff After: 0.831169
+  Reg Param 2
+    Avg Train Before: 0.307788, Avg Train After: 0.307270, Test Before: 0.386414, Test After: 0.386160, Transfer Coeff Before: 0.796524, Transfer Coeff After: 0.795705
+  Reg Param 4
+    Avg Train Before: 0.170257, Avg Train After: 0.157445, Test Before: 0.201458, Test After: 0.189671, Transfer Coeff Before: 0.845124, Transfer Coeff After: 0.830095
+  Reg Param 6
+    Avg Train Before: 0.305412, Avg Train After: 0.233810, Test Before: 0.352765, Test After: 0.276616, Transfer Coeff Before: 0.865767, Transfer Coeff After: 0.845251
+  Reg Param 8
+    Avg Train Before: 0.300844, Avg Train After: 0.299411, Test Before: 0.377541, Test After: 0.375444, Transfer Coeff Before: 0.796851, Transfer Coeff After: 0.797485
+  Reg Param 10
+    Avg Train Before: 0.368323, Avg Train After: 0.357237, Test Before: 0.418989, Test After: 0.409233, Transfer Coeff Before: 0.879077, Transfer Coeff After: 0.872943
+  Reg Param 100
+    Avg Train Before: 0.326508, Avg Train After: 0.257405, Test Before: 0.375186, Test After: 0.296824, Transfer Coeff Before: 0.870256, Transfer Coeff After: 0.867200
+  Reg Param 1000
+    Avg Train Before: 0.295421, Avg Train After: 0.294796, Test Before: 0.372656, Test After: 0.372328, Transfer Coeff Before: 0.792745, Transfer Coeff After: 0.791765
+Trial 29/30
+  Reg Param 0
+    Avg Train Before: 0.184048, Avg Train After: 0.163233, Test Before: 0.205039, Test After: 0.186426, Transfer Coeff Before: 0.897624, Transfer Coeff After: 0.875592
+  Reg Param 1
+    Avg Train Before: 0.199373, Avg Train After: 0.171225, Test Before: 0.256821, Test After: 0.224106, Transfer Coeff Before: 0.776310, Transfer Coeff After: 0.764034
+  Reg Param 2
+    Avg Train Before: 0.187020, Avg Train After: 0.162262, Test Before: 0.217587, Test After: 0.193032, Transfer Coeff Before: 0.859517, Transfer Coeff After: 0.840597
+  Reg Param 4
+    Avg Train Before: 0.252678, Avg Train After: 0.252546, Test Before: 0.352722, Test After: 0.352659, Transfer Coeff Before: 0.716368, Transfer Coeff After: 0.716118
+  Reg Param 6
+    Avg Train Before: 0.163723, Avg Train After: 0.146073, Test Before: 0.189250, Test After: 0.171671, Transfer Coeff Before: 0.865116, Transfer Coeff After: 0.850886
+  Reg Param 8
+    Avg Train Before: 0.157539, Avg Train After: 0.139088, Test Before: 0.209086, Test After: 0.184230, Transfer Coeff Before: 0.753465, Transfer Coeff After: 0.754969
+  Reg Param 10
+    Avg Train Before: 0.229440, Avg Train After: 0.227745, Test Before: 0.301761, Test After: 0.299180, Transfer Coeff Before: 0.760335, Transfer Coeff After: 0.761232
+  Reg Param 100
+    Avg Train Before: 0.392419, Avg Train After: 0.295321, Test Before: 0.419530, Test After: 0.330040, Transfer Coeff Before: 0.935377, Transfer Coeff After: 0.894804
+  Reg Param 1000
+    Avg Train Before: 0.152635, Avg Train After: 0.141813, Test Before: 0.174732, Test After: 0.161973, Transfer Coeff Before: 0.873536, Transfer Coeff After: 0.875533
+Trial 30/30
+  Reg Param 0
+    Avg Train Before: 0.527590, Avg Train After: 0.526800, Test Before: 0.722564, Test After: 0.722440, Transfer Coeff Before: 0.730164, Transfer Coeff After: 0.729195
+  Reg Param 1
+    Avg Train Before: 0.557239, Avg Train After: 0.472098, Test Before: 0.778621, Test After: 0.677494, Transfer Coeff Before: 0.715674, Transfer Coeff After: 0.696829
+  Reg Param 2
+    Avg Train Before: 0.231734, Avg Train After: 0.200432, Test Before: 0.308089, Test After: 0.267762, Transfer Coeff Before: 0.752166, Transfer Coeff After: 0.748545
+  Reg Param 4
+    Avg Train Before: 0.340726, Avg Train After: 0.262663, Test Before: 0.406105, Test After: 0.322691, Transfer Coeff Before: 0.839010, Transfer Coeff After: 0.813978
+  Reg Param 6
+    Avg Train Before: 0.527020, Avg Train After: 0.526474, Test Before: 0.726761, Test After: 0.726416, Transfer Coeff Before: 0.725163, Transfer Coeff After: 0.724756
+  Reg Param 8
+    Avg Train Before: 0.531793, Avg Train After: 0.529862, Test Before: 0.722710, Test After: 0.720226, Transfer Coeff Before: 0.735832, Transfer Coeff After: 0.735688
+  Reg Param 10
+    Avg Train Before: 0.192988, Avg Train After: 0.170481, Test Before: 0.246927, Test After: 0.218887, Transfer Coeff Before: 0.781562, Transfer Coeff After: 0.778857
+  Reg Param 100
+    Avg Train Before: 0.508160, Avg Train After: 0.506869, Test Before: 0.730964, Test After: 0.729213, Transfer Coeff Before: 0.695191, Transfer Coeff After: 0.695090
+  Reg Param 1000
+    Avg Train Before: 0.531154, Avg Train After: 0.529730, Test Before: 0.715788, Test After: 0.715233, Transfer Coeff Before: 0.742055, Transfer Coeff After: 0.740641
